@@ -161,7 +161,7 @@ section .title::after{
 /*----------------------------------------------Home Content--------------------------------------------*/
 .home{
     display: flex;
-    background: url("banner0.jpg") center; 
+    background: url("Banner0.jpg") center; 
     height: 100vh;
     color: rgb(26, 25, 25);
     min-height: 500px;
